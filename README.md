@@ -1,4 +1,3 @@
-# mathiasartclass
 <iframe
 src="https://kazwire.com/embed?search=SEARCH_QUERY_HERE"
 width="100%"
